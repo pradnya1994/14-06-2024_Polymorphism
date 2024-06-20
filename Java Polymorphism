@@ -1,0 +1,17 @@
+Polymorphism: One entity in many forms, also behavior is different.
+
+Polymorphism again of two types,
+	- static/compile time
+		- overloading concept
+			- Constructors
+			- Methods
+			
+	- dynamic/runtime
+		- overriding
+			- Methods
+			
+			
+Note:
+
+1. for static polymorphism we need only one class
+2. for dynamic polymorphism we need more then one class(need inheritance)
